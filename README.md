@@ -127,7 +127,7 @@ At slow pacing (0.5 Hz), 85% block: female APD = 1127 ms vs male 939 ms (**+188 
 | APD₉₀ > 500 ms (standard QTc safety cutoff) | 60% block | **55% block** | **5 pp earlier in females** |
 | Repolarization failure (cannot repolarize within cycle) | 95% block | **90% block** | **5 pp earlier in females** |
 
-The sex gap in critical thresholds is consistent across metrics. Under the ORd model with simple tonic IKr block, arrhythmia risk manifests as progressive APD prolongation leading to repolarization failure, rather than classic EAD oscillations — both are well-established precursors of TdP.
+The sex gap in critical thresholds is consistent across metrics. Under the ORd model with simple tonic IKr block, arrhythmia risk manifests as progressive APD prolongation leading to repolarization failure, rather than classic EAD oscillations both are well-established precursors of TdP.
 
 ---
 
@@ -193,7 +193,7 @@ If you use this code, please cite:
              prolongation by reduced female IKs repolarization reserve:
              a computational study using the {O'Hara-Rudy} human ventricular model},
   author  = {Raghavan, Tarun Aadithya Magesh},
-  journal = {bioRxiv},
+  journal = {to be assigned},
   year    = {2026},
   note    = {doi: to be assigned}
 }
